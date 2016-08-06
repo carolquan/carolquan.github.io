@@ -14,7 +14,7 @@ date: 2016-08-06 15:32:24.000000000 +09:00
 ## 问题
 1.使用jekyll new命令生成的文件夹里没有_include和_layout文件夹，push到github后出现报错
 
-<img src="/Users/carol/desktop/屏幕快照 2016-08-06 6.44.27 PM.png" width="60%" heght="10%">     
+<img src="/Users/carol/Desktop/blog_jekyll/assets/images/屏幕快照 2016-08-06 6.44.27 PM.png" width="60%" heght="10%">     
 2.git push的时候出现过
 
 {% highlight ruby %}
@@ -30,6 +30,8 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.```
 
 试了pull还是不行，最后用了网上简单粗暴的push －f方法。不理解为什么。                        
 3.对ruby中类、局部变量等的内容不理解。
+
+4.我在“1.”里放了一张图片，markdown能看到，但生成网页就看不到了。
 
 
 
